@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "564638438073",
+    "firebase_url": "https://apibelajarandroi-1570741444177.firebaseio.com",
+    "project_id": "apibelajarandroi-1570741444177",
+    "storage_bucket": "apibelajarandroi-1570741444177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564638438073:android:b07daf9707081204924168",
+        "android_client_info": {
+          "package_name": "com.example.apisatu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564638438073-s5a9rhs4odj5226s0f18k25svq0tpqpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLoZ6NDvXvmRdxEEExo4qraZwKwt3MTPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564638438073-s5a9rhs4odj5226s0f18k25svq0tpqpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
